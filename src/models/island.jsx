@@ -4,7 +4,7 @@ import { useFrame, useThree } from "@react-three/fiber";
 import { a } from '@react-spring/three';
 import islandScene from '../assets/3d/low_poly_flying_island.glb';
 
-const island = ({ isRotating, setIsRotating,setCurrentStage, ...props }) => {
+const Island = ({ isRotating, setIsRotating,setCurrentStage, ...props }) => {
   const islandRef = useRef();
 
 
@@ -821,4 +821,4 @@ return (
   
 }
 
-export default island;
+export default Island;
