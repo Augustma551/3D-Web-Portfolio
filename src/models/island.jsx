@@ -1,9 +1,7 @@
 import { useRef, useEffect } from "react";
 import { useGLTF } from "@react-three/drei";
-
 import { useFrame, useThree } from "@react-three/fiber";
 import { a } from '@react-spring/three';
-
 import islandScene from '../assets/3d/low_poly_flying_island.glb';
 
 const island = ({ isRotating, setIsRotating,setCurrentStage, ...props }) => {
