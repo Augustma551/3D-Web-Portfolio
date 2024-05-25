@@ -12,8 +12,6 @@ Packages :
 Converter 3D:
 * https://gltf.pmnd.rs/
 
-Refrences :
-* https://github.com/ritika789/3d-portfolio
 
 
 
