@@ -1,9 +1,14 @@
-# React + Vite
+# 3d Web
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Packages :
+ * @react-three/fiber
+ * @react-three/drei
+ * @react-spring/three
+ * @emailjs/browser
+ * three
+ * react-router-dom
+ * Tailwindcss
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# 3D_PersonalWeb
+<img width="1437" alt="Screenshot 2024-04-08 at 14 11 07" src="https://github.com/Augustma551/3D-Web-Portfolio/assets/91522446/dd968255-e9b3-44d2-930b-4e555ebaa990">
+![image](https://github.com/Augustma551/3D-Web-Portfolio/assets/91522446/4bd2a768-71d6-4879-bb65-3fc8fe1516dd)
