@@ -1,7 +1,7 @@
 import React from "react";
 import { useState, Suspense } from "react";
 import { Canvas } from "@react-three/fiber";
-import Island from "../models/Island";
+import Island from "../models/island.jsx";
 import Sky from "../models/sky";
 import Bird from "../models/bird";
 import Plane from '../models/plane';
