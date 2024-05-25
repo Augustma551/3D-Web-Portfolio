@@ -5,7 +5,7 @@ import Island from "../models/island";
 import Sky from "../models/sky";
 import Bird from "../models/bird";
 import Plane from '../models/plane';
-import  Loader  from "../components/loader";
+import Loader  from "../components/loader";
 
 const Home = () =>{
 
